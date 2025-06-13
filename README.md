@@ -1,1 +1,1 @@
-# trabalhos_sistemas_distribu-dos
+# Repositório destinado para os trabalhos da matéria de Sistemas Distribuídos
